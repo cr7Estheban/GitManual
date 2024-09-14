@@ -56,3 +56,13 @@ Por GitBash,
 ******* CLONACION DE UN REPOSITORIO
 
 1. git clone link del respositorio
+
+
+------------------------------------------------------------------------------------
+
+
+Eliminar el remote origin y volver a agregarlo (si prefieres): Si prefieres eliminar el remote existente y agregarlo de nuevo, puedes hacer esto:
+
+git remote remove origin
+git remote add origin https://github.com/cr7Estheban/GitManual
+
